@@ -1,9 +1,8 @@
 ## Concise DINO Code:
 ___
 
-<div style="background-image: url('./notebooks_/assets/imgs/bg4.png'); background-size: cover; background-repeat: no-repeat; padding: 0px;">
+<div style="background-image: url('./notebooks_/assets/imgs/bg4.png');">
     
-
     
 <br>
 
@@ -31,10 +30,6 @@ I've streamlined the DinoV2 code repository and integrated a wrapper for clarity
     
 </div>
 
-
-<!-- <div style="position: relative; width: 700px;">
-    <img src="./assets/imgs/DinoCC.png" style="position: absolute; bottom: -10px; right: 0px; width: 260px;">
-</div> -->
 
 <div style="position: relative; width: 850px;">
     <img src="./notebooks_/assets/imgs/AI_APE.png" style="position: absolute; bottom: -50px; right: 0px; width: 190px;">
