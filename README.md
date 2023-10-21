@@ -19,7 +19,7 @@ I've streamlined the DinoV2 code repository and integrated a wrapper for clarity
     4. Model Demo
     5. Pretrained Model
 ```
-<br><br>
+<br>
 
 <img src="./notebooks_/assets/imgs/mod.png" style="width: 1000px;">
 
