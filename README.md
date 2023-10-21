@@ -1,7 +1,7 @@
 ## Concise DINO Code:
 ___
 
-<div style="background-image: url('./notebooks_/assets/imgs/bg4.png');">
+<div style="background-image: url('./notebooks_/assets/imgs/banner.png');">
     
     
 <br>
