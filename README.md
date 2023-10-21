@@ -20,8 +20,6 @@ I've streamlined the DinoV2 code repository and integrated a wrapper for clarity
 ```
 <br><br>
 
-
-
 ### <a style="color:#b8c6d9">Publications:</a>
 
 <div style="margin-left: 30px;">
@@ -29,7 +27,9 @@ I've streamlined the DinoV2 code repository and integrated a wrapper for clarity
     
 <a href="https://arxiv.org/abs/2304.07193" style="color:#606e8a; text-decoration:none; border-bottom: 1px solid #606e8a;">‣ 2023 DINOv2: Learning Robust Visual Features without Supervision</a>
 
-### <a style="color:#b8c6d9">Data::</a>
+<br>
+
+### <a style="color:#b8c6d9">Data:</a>
 <a href="https://arxiv.org/abs/2304.07193" style="color:#606e8a; text-decoration:none; border-bottom: 1px solid #606e8a;">Link to a sample dataset</a>
     
 </div>
