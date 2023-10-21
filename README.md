@@ -17,8 +17,11 @@ I've streamlined the DinoV2 code repository and integrated a wrapper for clarity
     2. Dino Model
     3. Training Methods
     4. Model Demo
+    5. Pretrained Model
 ```
 <br><br>
+
+<img src="./notebooks_/assets/imgs/mod.png" style="width: 1000px;">
 
 ### <a style="color:#b8c6d9">Publications:</a>
 
